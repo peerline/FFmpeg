@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./configure --prefix=out
+./configure --prefix=out --disable-gpl --disable-version3
