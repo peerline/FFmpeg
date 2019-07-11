@@ -1,6 +1,3 @@
 {
-    "files.associations": {
-        "*.pc": "c",
-        "stdint.h": "c"
-    }
+    "git.ignoreLimitWarning": true
 }

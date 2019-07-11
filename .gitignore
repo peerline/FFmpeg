@@ -38,3 +38,5 @@
 /mapfile
 tools/
 out/
+.vscode/
+
